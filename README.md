@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Olá, eu sou Leandro Sena 🤙<br><br>- 🌱 Atualmente estou estudando C e WordPress<br>- 📫 Contate-me no email : senaleandro7@hotmail.com<br>
+## Olá, eu sou Leandro Sena 🤙<br><br>- 🌱 Atualmente estou estudando C e WordPress
 
 ## 💻 Tech Stack:
 <div style="display: inline_block"><br>
