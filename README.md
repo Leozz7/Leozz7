@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Olá, eu sou Leandro Sena 🤙<br><br>- 👨‍💻 Beginner Software Engineer </br>- 🌱 Atualmente estou estudando Java</br>- 🎓Graduando Engenharia de Software na <a href="https://unifan.net.br/">UNIFAN</a>
+## Olá, eu sou Leandro Sena 🤙<br><br>- 👨‍💻 Beginner Software Engineer </br>- 🌱 Atualmente estou estudando Java</br>- 🎓Graduando Engenharia de Software
 
 ## 💻 Technologies:
 <div style="display: inline_block"><br>
