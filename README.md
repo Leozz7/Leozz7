@@ -12,7 +12,6 @@
 </div>
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Leozz7">![](https://github-readme-stats.vercel.app/api?username=Leozz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</a> <br>
 <a href="https://github.com/Leozz7">![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leozz7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</a>
 
 ##
