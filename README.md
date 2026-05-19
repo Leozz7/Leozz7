@@ -1,5 +1,5 @@
 ## 💫 About Me:
-## Olá, eu sou Leandro Sena 🤙<br><br>- 👨‍💻 Software Engineer </br>- 🎓Graduando Engenharia de Software
+## Olá, eu sou Leandro Sena <br><br>- 👨‍💻 Software Engineer </br>- 🎓Graduando Engenharia de Software
 
 ## 💻 Technologies:
 <div align="left">
