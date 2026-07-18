@@ -40,8 +40,12 @@ Olá, eu sou o **Leandro Sena** 👋
 ## 📊 Minhas Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leozz7&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozz7&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/Leozz7">
+    <img src="https://github-readme-stats.vercel.app/api?username=Leozz7&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Leozz7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozz7&layout=compact&theme=transparent&hide_border=true" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
