@@ -1,6 +1,6 @@
 <h1 align="left">💫 Sobre mim</h1>
 
-Olá, eu sou o **Leandro Sena** 👋
+Olá, eu sou **Leandro Sena** 👋
 
 - 👨‍💻 Software Engineer na NodeOne Decentralized Cloud (foco em Backend | Fullstack)
 - 🎓 Graduando em Engenharia de Software no Centro Universitário Nobre (UNIFAN)
