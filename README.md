@@ -2,7 +2,7 @@
 
 Olá, eu sou **Leandro Sena** 👋
 
-- 👨‍💻 Software Engineer na NodeOne Decentralized Cloud (foco em Backend | Fullstack)
+- 👨‍💻 Software Engineer (foco em Backend | Fullstack)
 - 🎓 Graduando em Engenharia de Software no Centro Universitário Nobre (UNIFAN)
 - 🚀 Construindo soluções escaláveis com Clean Architecture, DDD e CQRS
 - 🌱 Aprofundando conhecimentos em AI Engineering e metodologias ágeis
